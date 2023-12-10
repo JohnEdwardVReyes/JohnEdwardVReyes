@@ -91,13 +91,21 @@ The end of the program, it should pop up when you choose "No' when getting the w
 
 ## Members Involved
 
-1.) Edward Reyes (Video Presenter) - 35%
+1.) **Edward Reyes** - 35%
+- Created and managed the files to be submitted as well as presented the video demo for project.
+  
 
-2.) James Natanauan (Head Developer) - 35 %
+2.) **James Natanauan** - 35 %
+- Provided the source code for the project.
+  
 
-3.) Kenneth Bagting (Debugger) - 15 %
+3.) **Kenneth Bagting** - 10 %
+- Proof reader on the script for the video.
+  
 
-4.) Joshua Braza (Debugger) - 15 %
+4.) **Joshua Braza** - 20 %
+- Worked with debugging the raw source code provided by James.
+  
 
 ## Link the Source Code and Demo
 
