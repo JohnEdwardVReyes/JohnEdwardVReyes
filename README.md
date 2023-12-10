@@ -91,13 +91,13 @@ The end of the program, it should pop up when you choose "No' when getting the w
 
 ## Members Involved
 
-1.) Edward Reyes (- 35%
+1.) Edward Reyes (Video Presenter) - 35%
 
-2.) James Natanauan
+2.) James Natanauan (Head Developer) - 35 %
 
-3.) Kenneth Bagting
+3.) Kenneth Bagting (Debugger) - 15 %
 
-4.) Joshua Braza
+4.) Joshua Braza (Debugger) - 15 %
 
 ## Link the Source Code and Demo
 
