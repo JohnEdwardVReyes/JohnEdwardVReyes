@@ -91,7 +91,7 @@ The end of the program, it should pop up when you choose "No' when getting the w
 
 ## Members Involved
 
-1.) Edward Reyes
+1.) Edward Reyes (- 35%
 
 2.) James Natanauan
 
@@ -101,3 +101,4 @@ The end of the program, it should pop up when you choose "No' when getting the w
 
 ## Link the Source Code and Demo
 
+https://drive.google.com/drive/folders/1a3pBQ75g37S1Fwh3KqL_Kh0Zs1Aamt16?usp=drive_link
